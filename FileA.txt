@@ -19,3 +19,4 @@ git reset --hard: Discard all local changes and reset to the last commit.
 git revert <commit>: Create a new commit that undoes the changes made in a previous commit.
 git rm <file>: Remove a file from both the working directory and the repository.
 These are just some of the commonly used Git commands. There are many more commands and options available. You can refer to the official Git documentation for a comprehensive list and more detailed explanations of each command: https://git-scm.com/doc
+
