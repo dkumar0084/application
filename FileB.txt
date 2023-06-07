@@ -1,2 +1,0 @@
-File B txt
-doing changes in File B for squash merge 
